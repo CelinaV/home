@@ -637,6 +637,12 @@ h6,
 #header1-u .mbr-section-lead B {
   text-align: left;
 }
+#header5-h .mbr-section-title {
+  color: #ffffff;
+}
+#header5-h .mbr-section-lead {
+  color: #7c706b;
+}
 
 
 #msg-box1-l H2 {

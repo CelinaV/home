@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "Collage",
+    "currentPage": "PhotographyColour",
     "versionFirst": "3.8.1",
-    "uniqCompNum": 16,
+    "uniqCompNum": 18,
     "versionPublish": "3.12.1",
     "name": "CelinaVleugels",
     "theme": {
@@ -74,8 +74,8 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "images": [
               {
                 "tags": "Animated",
@@ -158,13 +158,13 @@
                 "active": true
               }
             ],
-            "spacing": "5",
+            "spacing": "3",
             "showText": false,
             "filter": false,
             "bgColor": "#90b0b4",
             "filterBgColor": true,
-            "fullWidth": true,
-            "showBullets": false
+            "fullWidth": false,
+            "showBullets": true
           },
           "_anchor": "gallery3-h",
           "articleLayout": false
@@ -419,12 +419,12 @@
                 "active": true
               }
             ],
-            "spacing": "5",
+            "spacing": "3",
             "showText": false,
             "filter": false,
             "bgColor": "#90b0b4",
             "filterBgColor": true,
-            "fullWidth": true,
+            "fullWidth": false,
             "showBullets": false
           },
           "_anchor": "gallery3-j",
@@ -629,12 +629,12 @@
                 "active": true
               }
             ],
-            "spacing": "5",
+            "spacing": "3",
             "showText": false,
             "filter": false,
             "bgColor": "#d1adad",
             "filterBgColor": true,
-            "fullWidth": true,
+            "fullWidth": false,
             "showBullets": true
           },
           "_anchor": "gallery3-i",
@@ -928,12 +928,12 @@
                 "active": true
               }
             ],
-            "spacing": "5",
+            "spacing": "3",
             "showText": false,
             "filter": false,
             "bgColor": "#d1adad",
             "filterBgColor": true,
-            "fullWidth": true,
+            "fullWidth": false,
             "showBullets": true
           },
           "_anchor": "gallery3-o",
@@ -1137,6 +1137,44 @@
             "odnoklassniki": false
           },
           "text": ""
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "color": "#7c706b"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-h",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1500.jpg",
+            "bgColor": "#d1adad",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "<span style=\"font-weight: normal;\">ABOUT ME</span>",
+          "text": "20 years. Optimist. Art lover. La Vie en Rose.<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         }
       ]
     },
@@ -1352,12 +1390,12 @@
                 "active": true
               }
             ],
-            "spacing": "5",
+            "spacing": "3",
             "showText": false,
             "filter": false,
             "bgColor": "#90b0b4",
             "filterBgColor": true,
-            "fullWidth": true,
+            "fullWidth": false,
             "showBullets": true
           },
           "_anchor": "gallery3-l",
@@ -1633,12 +1671,12 @@
                 "active": true
               }
             ],
-            "spacing": "6",
+            "spacing": "3",
             "showText": false,
             "filter": false,
             "bgColor": "#90b0b4",
             "filterBgColor": true,
-            "fullWidth": true,
+            "fullWidth": false,
             "showBullets": false
           },
           "_anchor": "gallery3-n",
