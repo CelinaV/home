@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Photography",
+    "currentPage": "contact",
     "versionFirst": "3.8.1",
     "uniqCompNum": 18,
     "versionPublish": "3.12.1",
@@ -445,7 +445,6 @@
           },
           "logo": {
             "image": {
-              "active": true,
               "src": "@PROJECT_PATH@/assets/images/img-7933-126x128-70.jpg",
               "height": 128,
               "alt": "",
@@ -458,7 +457,7 @@
               "linkInNewWindow": false,
               "name": "instagram",
               "family": "socicon",
-              "link": "https://mobirise.com",
+              "link": "https://www.instagram.com/celinafotografie/",
               "size": "20",
               "newWindow": false,
               "color": "#7c706b",
@@ -1061,9 +1060,9 @@
               "linkInNewWindow": false,
               "name": "instagram",
               "family": "socicon",
-              "link": "https://mobirise.com",
+              "link": "https://www.instagram.com/celinafotografie/",
               "size": "20",
-              "newWindow": false,
+              "newWindow": true,
               "color": "#7c706b",
               "active": true
             }
@@ -1523,9 +1522,9 @@
               "linkInNewWindow": false,
               "name": "instagram",
               "family": "socicon",
-              "link": "https://mobirise.com",
+              "link": "https://www.instagram.com/celinafotografie/",
               "size": "20",
-              "newWindow": false,
+              "newWindow": true,
               "color": "#7c706b",
               "active": true
             }
@@ -1884,7 +1883,6 @@
           },
           "logo": {
             "image": {
-              "active": true,
               "src": "@PROJECT_PATH@/assets/images/img-7933-126x128-70.jpg",
               "height": 128,
               "alt": "",
@@ -1895,12 +1893,13 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
-              "name": "pinterest",
+              "name": "instagram",
               "family": "socicon",
-              "link": "https://mobirise.com",
+              "link": "https://www.instagram.com/celinafotografie/",
               "size": "20",
               "newWindow": false,
-              "color": "#b8312f"
+              "color": "#7c706b",
+              "active": true
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CELINAVLEUGELS</a>",
