@@ -734,7 +734,7 @@
               "family": "socicon",
               "link": "https://www.instagram.com/celinafotografie/",
               "size": "20",
-              "newWindow": false,
+              "newWindow": true,
               "color": "#7c706b",
               "active": true
             }
