@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "PhotographyColour",
+    "currentPage": "index.html",
     "versionFirst": "3.8.1",
     "uniqCompNum": 18,
     "versionPublish": "3.12.1",
@@ -925,6 +925,36 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-8583-2000x2499-1-2000x2499-8.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-8583-2000x2499-1.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vaas-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vaas-2000x2666.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3-2000x2666.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2-2000x2666.jpg",
+                "caption": "Type caption here",
                 "active": true
               }
             ],
@@ -1173,7 +1203,7 @@
             "showButtons": false
           },
           "title": "<span style=\"font-weight: normal;\">ABOUT ME</span>",
-          "text": "20 years. Optimist. Art lover. La Vie en Rose.<br><br>",
+          "text": "<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         }
       ]
