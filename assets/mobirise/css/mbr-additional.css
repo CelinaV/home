@@ -417,6 +417,15 @@ h6,
 #msg-box1-p H2 {
   color: #232323;
 }
+#msg-box1-i H2 {
+  color: #28324e;
+}
+#footer1-j P {
+  color: #7c706b;
+}
+#msg-box1-k H2 {
+  color: #28324e;
+}
 #menu-10 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -479,15 +488,6 @@ h6,
 #menu-10 .link[aria-expanded="true"],
 #menu-10 .dropdown-item[aria-expanded="true"] {
   color: #90b0b4!important;
-}
-#msg-box1-i H2 {
-  color: #28324e;
-}
-#footer1-j P {
-  color: #7c706b;
-}
-#msg-box1-k H2 {
-  color: #28324e;
 }
 
 
