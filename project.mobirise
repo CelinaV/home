@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "contact",
+    "currentPage": "index.html",
     "versionFirst": "3.8.1",
     "uniqCompNum": 18,
     "versionPublish": "3.12.1",
@@ -25,7 +25,9 @@
       }
     },
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
   },
   "pages": {
     "Collage": {
