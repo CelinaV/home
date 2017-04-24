@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Collage",
+    "currentPage": "Photography",
     "versionFirst": "3.8.1",
     "uniqCompNum": 19,
     "versionPublish": "3.12.1",
@@ -532,8 +532,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-nohqcc38l31u073ryo3-540-2000x1714-87-2000x1714-58.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-nohqcc38l31u073ryo3-540-2000x1714-87.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bonke-2000x1733-800x693.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bonke-2000x1733.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -542,8 +542,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-nfcqoop5ou1u073ryo1-540-2000x3100-19-2000x3100-55.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-nfcqoop5ou1u073ryo1-540-2000x3100-19.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/plantjes2-2000x1659-800x663.jpg",
+                "image": "@PROJECT_PATH@/assets/images/plantjes2-2000x1659.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -552,8 +552,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-nohqcc38l31u073ryo1-540-2000x1733-74-2000x1733-37.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-nohqcc38l31u073ryo1-540-2000x1733-74.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/plantjes-2000x1714-800x685.jpg",
+                "image": "@PROJECT_PATH@/assets/images/plantjes-2000x1714.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -562,8 +562,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-ncmesnyroo1u073ryo2-540-2000x1351-10-2000x1351-63.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-ncmesnyroo1u073ryo2-540-2000x1351-10.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/virgi2-2000x2306-800x922.jpg",
+                "image": "@PROJECT_PATH@/assets/images/virgi2-2000x2306.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -572,8 +572,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-np7p6jghco1u073ryo1-540-2000x1722-97-2000x1722-58.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-np7p6jghco1u073ryo1-540-2000x1722-97.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schaduw-2000x2210-800x884.jpg",
+                "image": "@PROJECT_PATH@/assets/images/schaduw-2000x2210.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -582,8 +582,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-ncmggf4kqw1u073ryo1-540-2000x1337-81-2000x1337-69.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-ncmggf4kqw1u073ryo1-540-2000x1337-81.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dubbel-2000x1746-800x698.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dubbel-2000x1746.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -592,8 +592,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-nclx0wag091u073ryo2-540-2000x1725-76-2000x1725-34.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-nclx0wag091u073ryo2-540-2000x1725-76.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gordijn-2000x1722-800x688.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gordijn-2000x1722.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -602,8 +602,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/14877715-10211567391805241-1502795188-n-2000x1921-54-2000x1921-68.jpg",
-                "image": "@PROJECT_PATH@/assets/images/14877715-10211567391805241-1502795188-n-2000x1921-54.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/zw-2000x1748-800x699.jpg",
+                "image": "@PROJECT_PATH@/assets/images/zw-2000x1748.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -612,8 +612,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/14958398-10211567353484283-452351952-n-2000x1760-6-2000x1760-53.jpg",
-                "image": "@PROJECT_PATH@/assets/images/14958398-10211567353484283-452351952-n-2000x1760-6.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/virgii2-2000x1725-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/virgii2-2000x1725.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -622,8 +622,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/14958602-10211567392485258-833137714-n-2000x1697-55-2000x1697-51.jpg",
-                "image": "@PROJECT_PATH@/assets/images/14958602-10211567392485258-833137714-n-2000x1697-55.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/x-2000x1725-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/x-2000x1725.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -632,8 +632,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/14958373-10211567392245252-644851059-n-2000x1731-82-2000x1731-97.jpg",
-                "image": "@PROJECT_PATH@/assets/images/14958373-10211567392245252-644851059-n-2000x1731-82.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/viri-2000x2266-800x906.jpg",
+                "image": "@PROJECT_PATH@/assets/images/viri-2000x2266.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/beringen-2000x2333-800x933.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beringen-2000x2333.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
