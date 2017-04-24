@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Collage",
     "versionFirst": "3.8.1",
-    "uniqCompNum": 18,
+    "uniqCompNum": 19,
     "versionPublish": "3.12.1",
     "name": "CelinaVleugels",
     "theme": {
@@ -26,7 +26,7 @@
     },
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-97851877-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
   },
   "pages": {
@@ -68,7 +68,7 @@
             "showTitle": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE LIVE DEMO</a>",
-          "text": "HAND MADE &amp; DIGITAL COLLAGES&nbsp;",
+          "text": "HAND MADE COLLAGES&nbsp;",
           "title": ""
         },
         {
@@ -78,16 +78,16 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "images": [
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-ncz9qf7dcz1u073ryo1-540-2000x2840-87-2000x2840-8.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-ncz9qf7dcz1u073ryo1-540-2000x2840-87.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/collage7-2000x1751-800x700.jpg",
+                "image": "@PROJECT_PATH@/assets/images/collage7-2000x1751.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -96,8 +96,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-nfhzn1mxza1u073ryo2-540-2000x1311-68-2000x1311-27.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-nfhzn1mxza1u073ryo2-540-2000x1311-68.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/collage6-2000x1311-800x524.jpg",
+                "image": "@PROJECT_PATH@/assets/images/collage6-2000x1311.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -106,8 +106,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-ne5bpxtxbp1u073ryo1-540-2000x1403-60-2000x1403-96.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-ne5bpxtxbp1u073ryo1-540-2000x1403-60.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/collage2-2000x1403-800x561.jpg",
+                "image": "@PROJECT_PATH@/assets/images/collage2-2000x1403.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -116,8 +116,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-nfhzgreacy1u073ryo1-540-2000x1892-14-2000x1892-99.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-nfhzgreacy1u073ryo1-540-2000x1892-14.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/collage3-2000x1537-800x614.jpg",
+                "image": "@PROJECT_PATH@/assets/images/collage3-2000x1537.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -126,8 +126,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-ne65vjnesn1u073ryo1-540-2000x3103-4-2000x3103-50.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-ne65vjnesn1u073ryo1-540-2000x3103-4.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/collage-2000x3103-800x1241.jpg",
+                "image": "@PROJECT_PATH@/assets/images/collage-2000x3103.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -136,8 +136,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-nfhzn1mxza1u073ryo1-540-2000x1751-1-2000x1751-34.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-nfhzn1mxza1u073ryo1-540-2000x1751-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/collage4-2000x2840-800x1136.jpg",
+                "image": "@PROJECT_PATH@/assets/images/collage4-2000x2840.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -146,20 +146,20 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-ncz95vifq71u073ryo1-540-2000x2840-61-2000x2840-77.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-ncz95vifq71u073ryo1-540-2000x2840-61.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/10411398-335586169956393-2546336306287425444-n-2000x2752-21-2000x2752-77.jpg",
-                "image": "@PROJECT_PATH@/assets/images/10411398-335586169956393-2546336306287425444-n-2000x2752-21.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/collage8-2000x1892-800x756.jpg",
+                "image": "@PROJECT_PATH@/assets/images/collage8-2000x1892.jpg",
                 "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/collage5-2000x2840-800x1136.jpg",
+                "image": "@PROJECT_PATH@/assets/images/collage5-2000x2840.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": "3",
@@ -170,7 +170,7 @@
             "fullWidth": false,
             "showBullets": true
           },
-          "_anchor": "gallery3-h",
+          "_anchor": "gallery3-i",
           "articleLayout": false
         },
         {
@@ -248,8 +248,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-oazkypkc6l1u073ryo1-540-2000x2614-87-2000x2614-62.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-oazkypkc6l1u073ryo1-540-2000x2614-87.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pastell-2000x2616-800x1046.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pastell-2000x2616.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -258,8 +258,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-o6718rhpkz1u073ryo1-540-2000x1340-49-2000x1340-11.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-o6718rhpkz1u073ryo1-540-2000x1340-49.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/collage-4-2000x2828-800x1131.jpg",
+                "image": "@PROJECT_PATH@/assets/images/collage-4-2000x2828.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -268,8 +268,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-oaxi98prjs1u073ryo1-540-2000x2988-39-2000x2988-79.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-oaxi98prjs1u073ryo1-540-2000x2988-39.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/collage-5-2000x2828-800x1131.jpg",
+                "image": "@PROJECT_PATH@/assets/images/collage-5-2000x2828.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -278,8 +278,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/probeersel-2000x1499-44-2000x1499-3.jpg",
-                "image": "@PROJECT_PATH@/assets/images/probeersel-2000x1499-44.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/collage-2-2000x2828-800x1131.jpg",
+                "image": "@PROJECT_PATH@/assets/images/collage-2-2000x2828.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -288,8 +288,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gemist-2000x1271-71-2000x1271-29.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gemist-2000x1271-71.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/collage-meta-data-2000x2828-800x1131.jpg",
+                "image": "@PROJECT_PATH@/assets/images/collage-meta-data-2000x2828.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -298,8 +298,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-nctvkdk0lo1u073ryo1-1280-2000x1682-44-2000x1682-70.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-nctvkdk0lo1u073ryo1-1280-2000x1682-44.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/collage-3-2000x2828-800x1131.jpg",
+                "image": "@PROJECT_PATH@/assets/images/collage-3-2000x2828.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -308,8 +308,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/blue-2000x2133-20-2000x2133-93.jpg",
-                "image": "@PROJECT_PATH@/assets/images/blue-2000x2133-20.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/collage11-2000x2828-800x1131.jpg",
+                "image": "@PROJECT_PATH@/assets/images/collage11-2000x2828.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -318,8 +318,48 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cel1-2000x2828-83-2000x2828-5.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cel1-2000x2828-83.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/collage9-2000x2828-800x1131.jpg",
+                "image": "@PROJECT_PATH@/assets/images/collage9-2000x2828.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/collage10-2000x2828-800x1131.jpg",
+                "image": "@PROJECT_PATH@/assets/images/collage10-2000x2828.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cel2-2000x2828-800x1131.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cel2-2000x2828.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cowlage11-2000x2667-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cowlage11-2000x2667.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/collage12-2000x2828-800x1131.jpg",
+                "image": "@PROJECT_PATH@/assets/images/collage12-2000x2828.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -334,41 +374,6 @@
           },
           "_anchor": "gallery3-j",
           "articleLayout": false
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_styles": {
-            "H2": {
-              "color": "#28324e"
-            }
-          },
-          "_anchor": "msg-box1-k",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#90b0b4",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": false,
-            "showText": true,
-            "showTitle": true
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE LIVE DEMO</a>",
-          "text": "DIGITAL COLLAGES: MODERNISTIC&nbsp;",
-          "title": ""
         },
         {
           "_styles": {
@@ -1144,7 +1149,7 @@
             "showButtons": false
           },
           "title": "<span style=\"font-weight: normal;\">CELINA VLEUGELS</span><span style=\"font-weight: normal;\"><br></span>",
-          "text": "Art student at Luca School of Arts, Ghent<br><a href=\"Collage\" class=\"text-black\">Collage</a> / <a href=\"Photography\" class=\"text-black\">Black&amp;White</a> / <a href=\"Photography Colour\" class=\"text-black\">Colour</a> /<a href=\"Paintings\" class=\"text-black\"> Paintings</a> / <a href=\"contact\" class=\"text-black\">Contact</a>&nbsp;/ <a href=\"http://\" target=\"_blank\" class=\"text-black\">Model</a>",
+          "text": "Art student at Luca School of Arts, Ghent<br><a href=\"Collage\" class=\"text-black\">Collage</a> / <a href=\"Photography\" class=\"text-black\">Black&amp;White</a> / <a href=\"Photography Colour\" class=\"text-black\">Colour</a> /<a href=\"Paintings\" class=\"text-black\"> Paintings</a> / <a href=\"contact\" class=\"text-black\">Contact</a>&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
