@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "PhotographyColour",
+    "currentPage": "Paintings",
     "versionFirst": "3.8.1",
     "uniqCompNum": 19,
     "versionPublish": "3.12.1",
@@ -841,8 +841,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-nxg8gfjnsz1u073ryo1-540-2000x2677-73-2000x2677-66.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-nxg8gfjnsz1u073ryo1-540-2000x2677-73.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stofjes-2000x2503-800x1001.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stofjes-2000x2503.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -851,8 +851,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-nxg888zqta1u073ryo1-540-2000x2425-28-2000x2425-15.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-nxg888zqta1u073ryo1-540-2000x2425-28.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-5-2000x2666.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -861,8 +861,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-o8t59ltnpu1u073ryo1-540-2000x2211-89-2000x2211-89.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-o8t59ltnpu1u073ryo1-540-2000x2211-89.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/meta-data-5-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/meta-data-5-2000x2666.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -871,8 +871,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-o72a7augnw1u073ryo1-540-2000x2666-70-2000x2666-54.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-o72a7augnw1u073ryo1-540-2000x2666-70.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/meta-data-2-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/meta-data-2-2000x2666.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -881,8 +881,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-o8t5ibegxl1u073ryo1-540-2000x2000-17-2000x2000-36.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-o8t5ibegxl1u073ryo1-540-2000x2000-17.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/meta-data-6-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/meta-data-6-2000x2666.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -891,8 +891,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-o75t317d271u073ryo1-540-2000x2000-85-2000x2000-90.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-o75t317d271u073ryo1-540-2000x2000-85.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vaas-bestand-met-data-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vaas-bestand-met-data-2000x2666.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -901,8 +901,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-o68qdsezlx1u073ryo1-540-2000x2000-61-2000x2000-52.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-o68qdsezlx1u073ryo1-540-2000x2000-61.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/portret-ik-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/portret-ik-2000x2666.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -911,68 +911,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-o65apytspo1u073ryo1-540-2000x2000-6-2000x2000-51.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-o65apytspo1u073ryo1-540-2000x2000-6.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/f201f9bbc48e912fcaf2def0b5aa4a1a-2000x1312-47-2000x1312-84.jpg",
-                "image": "@PROJECT_PATH@/assets/images/f201f9bbc48e912fcaf2def0b5aa4a1a-2000x1312-47.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cb30e063a8e1516d70d467ac897a7fe0-2000x2000-62-2000x2000-7.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cb30e063a8e1516d70d467ac897a7fe0-2000x2000-62.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-8583-2000x2499-1-2000x2499-8.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-8583-2000x2499-1.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vaas-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/vaas-2000x2666.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-3-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-3-2000x2666.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/meta-data-7-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/meta-data-7-2000x2666.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
