@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Photography",
+    "currentPage": "PhotographyColour",
     "versionFirst": "3.8.1",
     "uniqCompNum": 19,
     "versionPublish": "3.12.1",
@@ -1283,8 +1283,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-ncmhsuajkx1u073ryo2-540-2000x1748-30-2000x1748-58.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-ncmhsuajkx1u073ryo2-540-2000x1748-30.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/virgenie2-2000x1748-800x699.jpg",
+                "image": "@PROJECT_PATH@/assets/images/virgenie2-2000x1748.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1293,8 +1293,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-nclulfytjx1u073ryo1-540-2000x1300-27-2000x1300-23.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-nclulfytjx1u073ryo1-540-2000x1300-27.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/archi-2000x1431-800x572.jpg",
+                "image": "@PROJECT_PATH@/assets/images/archi-2000x1431.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1303,8 +1303,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-ncmgm5svn61u073ryo1-540-2000x1325-8-2000x1325-95.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-ncmgm5svn61u073ryo1-540-2000x1325-8.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gr2-2000x1722-800x688.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gr2-2000x1722.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1313,8 +1313,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-nco67ztczv1u073ryo1-540-2000x1333-28-2000x1333-31.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-nco67ztczv1u073ryo1-540-2000x1333-28.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/venet-2000x1756-800x702.jpg",
+                "image": "@PROJECT_PATH@/assets/images/venet-2000x1756.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1323,8 +1323,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/553024-10200503037443297-139365351-n-2000x1307-84-2000x1307-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/553024-10200503037443297-139365351-n-2000x1307-84.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/greece-2000x1725-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/greece-2000x1725.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1333,8 +1333,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/atelier2-2000x1759-28-2000x1759-48.jpg",
-                "image": "@PROJECT_PATH@/assets/images/atelier2-2000x1759-28.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rene-2000x2318-800x927.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rene-2000x2318.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1343,8 +1343,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gaia2-2000x1733-47-2000x1733-80.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gaia2-2000x1733-47.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/griekenland-2000x1725-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/griekenland-2000x1725.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1353,88 +1353,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-1524-2000x1396-88-2000x1396-71.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-1524-2000x1396-88.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/antwerp-2000x1753-52-2000x1753-45.jpg",
-                "image": "@PROJECT_PATH@/assets/images/antwerp-2000x1753-52.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-8923-2000x1327-11-2000x1327-60.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-8923-2000x1327-11.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-8485-2000x1715-81-2000x1715-81.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-8485-2000x1715-81.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jonathan-2000x1753-72-2000x1753-18.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jonathan-2000x1753-72.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/wolkjes-2000x2297-76-2000x2297-25.jpg",
-                "image": "@PROJECT_PATH@/assets/images/wolkjes-2000x2297-76.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/virgi3-2000x1733-5-2000x1733-12.jpg",
-                "image": "@PROJECT_PATH@/assets/images/virgi3-2000x1733-5.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/14937914-10211567437846392-1040071141-n-2000x1339-59-2000x1339-73.jpg",
-                "image": "@PROJECT_PATH@/assets/images/14937914-10211567437846392-1040071141-n-2000x1339-59.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-6961-2000x1751-30-2000x1751-27.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-6961-2000x1751-30.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ondersteboven-2000x1715-800x686.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ondersteboven-2000x1715.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1624,8 +1544,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/14936901-10211567440886468-606604076-n-2000x1500-87-2000x1500-27.jpg",
-                "image": "@PROJECT_PATH@/assets/images/14936901-10211567440886468-606604076-n-2000x1500-87.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kleurtjes-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kleurtjes-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1634,8 +1554,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7477-2000x1500-25-2000x1500-60.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-7477-2000x1500-25.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/griekenland2-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/griekenland2-2000x2666.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1644,8 +1564,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7936-2000x2000-44-2000x2000-25.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-7936-2000x2000-44.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kleurtjes4-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kleurtjes4-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1654,8 +1574,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7973-2000x2000-50-2000x2000-89.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-7973-2000x2000-50.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kleurtjes2-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kleurtjes2-2000x2666.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1664,8 +1584,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7773-2000x2000-81-2000x2000-79.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-7773-2000x2000-81.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/roosblauw-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/roosblauw-2000x2500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1674,8 +1594,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/14914599-10211567582930019-1876680969-n-2000x1981-1-2000x1981-66.jpg",
-                "image": "@PROJECT_PATH@/assets/images/14914599-10211567582930019-1876680969-n-2000x1981-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kleurtjes5-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kleurtjes5-2000x2666.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1684,8 +1604,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/14886238-10211567440086448-283404948-n-2000x2666-65-2000x2666-32.jpg",
-                "image": "@PROJECT_PATH@/assets/images/14886238-10211567440086448-283404948-n-2000x2666-65.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/virgi4-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/virgi4-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1694,8 +1614,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/14915004-10211567439606436-397790996-n-2000x2666-7-2000x2666-66.jpg",
-                "image": "@PROJECT_PATH@/assets/images/14915004-10211567439606436-397790996-n-2000x2666-7.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/liesbeth-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/liesbeth-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1704,8 +1624,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-8354-2000x2666-42-2000x2666-66.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-8354-2000x2666-42.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/greece4-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/greece4-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1714,8 +1634,38 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-6110-1-2000x3000-84-2000x3000-51.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-6110-1-2000x3000-84.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/greece5-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/greece5-2000x2666.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rozegevel-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rozegevel-2000x2666.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/greece6-2000x1485-800x594.jpg",
+                "image": "@PROJECT_PATH@/assets/images/greece6-2000x1485.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/beringen-mijn-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beringen-mijn-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
