@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "contact",
+    "currentPage": "Collage",
     "versionFirst": "3.8.1",
     "uniqCompNum": 19,
     "versionPublish": "3.12.1",
@@ -231,7 +231,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Celina Vleugels."
+          "text": "Copyright (c) 2017 Celina Vleugels."
         },
         {
           "_inherit": "gallery1",
@@ -781,7 +781,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Celina Vleugels."
+          "text": "Copyright (c) 2017 Celina Vleugels."
         }
       ]
     },
@@ -1050,7 +1050,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Celina Vleugels."
+          "text": "Copyright (c) 2017 Celina Vleugels."
         }
       ]
     },
@@ -1432,7 +1432,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Celina Vleugels."
+          "text": "Copyright (c) 2017 Celina Vleugels."
         },
         {
           "_tags": [
@@ -1651,7 +1651,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Celina Vleugels."
+          "text": "Copyright (c) 2017 Celina Vleugels."
         },
         {
           "_tags": [
