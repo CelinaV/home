@@ -418,12 +418,6 @@ h6,
 #header1-u .mbr-section-lead B {
   text-align: left;
 }
-#header5-h .mbr-section-title {
-  color: #ffffff;
-}
-#header5-h .mbr-section-lead {
-  color: #7c706b;
-}
 
 
 #msg-box1-p H2 {
@@ -573,6 +567,8 @@ h6,
 
 #msg-box1-l H2 {
   color: #232323;
+  font-size: 17px;
+  text-align: left;
 }
 #menu-10 .hide-buttons .nav-btn {
   display: none !important;
